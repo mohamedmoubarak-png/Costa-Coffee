@@ -173,7 +173,7 @@ window.COSTA_MENU = [
    "M": 110,
    "L": 120
   },
-  "img": ""
+  "img": "hot-chocolate"
  },
  {
   "id": "item016",
@@ -356,7 +356,7 @@ window.COSTA_MENU = [
    "M": 110,
    "L": 120
   },
-  "img": ""
+  "img": "lemonade-strawberry"
  },
  {
   "id": "item032",
@@ -440,7 +440,7 @@ window.COSTA_MENU = [
    "M": 120,
    "L": 130
   },
-  "img": "",
+  "img": "frappe-berry",
   "note": {
    "ar": "بدون قهوة",
    "en": "Without coffee"
@@ -488,7 +488,7 @@ window.COSTA_MENU = [
    "M": 120,
    "L": 130
   },
-  "img": "",
+  "img": "frappe-strawberry",
   "note": {
    "ar": "بدون قهوة",
    "en": "Without coffee"
@@ -504,7 +504,7 @@ window.COSTA_MENU = [
    "M": 120,
    "L": 130
   },
-  "img": "",
+  "img": "frappe-mango",
   "note": {
    "ar": "بدون قهوة",
    "en": "Without coffee"
@@ -520,7 +520,7 @@ window.COSTA_MENU = [
    "M": 110,
    "L": 120
   },
-  "img": ""
+  "img": "cooler-mango"
  },
  {
   "id": "item044",
@@ -532,7 +532,7 @@ window.COSTA_MENU = [
    "M": 110,
    "L": 120
   },
-  "img": ""
+  "img": "cooler-berry"
  },
  {
   "id": "item045",
@@ -574,7 +574,7 @@ window.COSTA_MENU = [
   "prices": {
    "One": 80
   },
-  "img": ""
+  "img": "juice-mango"
  },
  {
   "id": "item048",
@@ -594,7 +594,7 @@ window.COSTA_MENU = [
   "prices": {
    "One": 80
   },
-  "img": ""
+  "img": "juice-guava"
  },
  {
   "id": "item050",
